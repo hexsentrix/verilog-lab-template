@@ -1,3 +1,4 @@
+
 {
   "name": "Verilog HDL Lab",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
@@ -5,7 +6,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "mshr-h.VerilogHDL"
+        "mshr-h.VerilogHDL",
+        "ms-vscode.makefile-tools"
       ]
     }
   }
